@@ -1,0 +1,18 @@
+# Bloquear apenas arquivos de configuração e sistema (Segurança)
+*.cfg
+*.ini
+server.cfg
+users.ini
+liblist.gam
+amx.cfg
+
+# Bloquear executáveis e scripts
+*.exe
+*.dll
+*.bat
+*.cmd
+*.vbs
+
+# Arquivos de sistema operacional
+Thumbs.db
+Desktop.ini
